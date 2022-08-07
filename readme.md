@@ -2,7 +2,7 @@
 
 ![Created By Nilesh kumar](https://img.shields.io/badge/CreatedBy-NileshKumar-brightgreen)
 
-## **Project-1** [Live Link]("Project-1")  
+## **Project-1** [Live Link](https://nilesh-project-1.netlify.app/)  
 
 ### Website Image
 ![website img](./screenshots/website%20img.png)
